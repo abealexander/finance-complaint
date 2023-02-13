@@ -19,7 +19,6 @@ class FinanceConfig:
 
     def __init__(self, pipeline_name=PIPELINE_NAME, timestamp=TIMESTAMP):
         """
-        Organization: iNeuron Intelligence Private Limited
 
         """
         self.timestamp = timestamp
